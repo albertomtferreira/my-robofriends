@@ -1,8 +1,8 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
+      name: 'Sandra Dziedzic',
+      username: 'Sandra',
       email: 'Sincere@april.biz'
     },
     {
